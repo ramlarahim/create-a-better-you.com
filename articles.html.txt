@@ -1,0 +1,17 @@
+<!DOCTYPE html>
+<head>
+     <title>Articles</title> 
+</head>
+<body style="background:url('./image.jpg')">
+<header>
+</header>
+<hr>
+<nav>
+<table cellspacing="5" cellpadding="5">
+<tr>
+<td><a href="website2.html">Home</a></td>
+<td><a href="articles.html">Articles</a</td>
+</tr>
+</table>
+</nav>
+</body>
